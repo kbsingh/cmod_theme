@@ -51,3 +51,42 @@ body {
 #footer {
 	margin-top: inherit;
 	}
+
+h1.action {
+	text-align: center;
+	}
+
+#sponsors {
+	width: 300px;
+	float: right;
+	margin: 0;
+	border: 1px solid #DDDDDD;
+	background-color: white;
+	}
+
+#sponsors h2 {
+	margin-top: 0;
+	}
+
+#register_now a {
+	/* taken from H1 style */
+	background-color: #204C8D;
+    background-image: url("http://wiki.centos.org/wiki/modern-CentOS/img/moin-h1-background.png");
+    border: medium none;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 1px 2px 3px #666688;
+    color: #FFFFFF;
+    text-align: center;
+    width: 20ex;
+    margin: 1.5em auto;
+    padding: 1ex 2ex;
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.9em;
+    display: block;
+    }
+
+.note {
+	font-size: 0.8em;
+	color: #222;
+	}
