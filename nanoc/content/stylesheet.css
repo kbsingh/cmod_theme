@@ -1,0 +1,53 @@
+html {
+	margin: 0;
+	}
+
+body {
+	background: none;
+	border: none;
+	}
+
+#logo {
+	float: none;
+	margin: 0 auto;
+	padding: 10px;
+	width: 1050px;
+	}
+
+#username {
+	margin: 1em;
+	position: absolute;
+	top: 0;
+	right: 0;
+	}
+
+#searchform {
+	padding: 1em 0;
+	}
+
+#locationline {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin: 0 auto;
+	max-width: 1050px;
+	background-color: #FFFFFF;
+	}
+
+
+.navibar {
+	margin: 0 auto;
+	max-width: 1050px;
+	}
+
+#page {
+	padding-top: 6px;
+	padding-right: 20px;
+	padding-bottom: 6px;
+	padding-left: 20px;
+	margin: 0 auto;
+	max-width: 1050px;
+	}
+
+#footer {
+	margin-top: inherit;
+	}
